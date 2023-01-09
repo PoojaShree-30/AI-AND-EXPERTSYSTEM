@@ -1,0 +1,6 @@
+a=input("enter a string :")
+x=a.split()
+x.sort()
+print("\n")
+for y in x:
+    print(y)
